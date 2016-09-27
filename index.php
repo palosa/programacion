@@ -4,9 +4,9 @@
   </head> 
    <body>
       <?php
-        echo "Pablo ";
-        echo "Lopez ";
-        print "Sanchis";
+        echo "Pablo <br>";
+        echo "Lopez <br>";
+        print "Sanchis <br>";
       ?>
     </body>
 </html>
